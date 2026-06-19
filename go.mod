@@ -1,4 +1,4 @@
-module github.com/pucora/velonetics-httpsecure/v2
+module github.com/pucora/pucora-httpsecure/v2
 
 go 1.24.0
 

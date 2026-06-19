@@ -7,7 +7,7 @@ import (
 	"github.com/pucora/lura/v2/router/mux"
 	"github.com/unrolled/secure"
 
-	httpsecure "github.com/pucora/velonetics-httpsecure/v2"
+	httpsecure "github.com/pucora/pucora-httpsecure/v2"
 )
 
 // NewSecureMw creates a secured middleware for the mux engine

@@ -7,7 +7,7 @@ import (
 
 	"github.com/pucora/lura/v2/config"
 
-	httpsecure "github.com/pucora/velonetics-httpsecure/v2"
+	httpsecure "github.com/pucora/pucora-httpsecure/v2"
 )
 
 func TestNewSecureMw(t *testing.T) {
