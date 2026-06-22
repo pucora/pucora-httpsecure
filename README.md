@@ -1,7 +1,7 @@
 Pucora HTTP Secure
 ====
 
-A complete http security layer for the [KakenD](http://pucora.io) framework
+A complete http security layer for the [KakenD](http://pucora.in) framework
 
 This package is a wrapper over the [github.com/unrolled/secure](http://github.com/unrolled/secure)
 
